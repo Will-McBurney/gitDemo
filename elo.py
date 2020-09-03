@@ -9,7 +9,7 @@ CLASH = 45      #Western/Eastern Clash = 50
 BRAWL = 55      #International Brawl = 60
 
 #Initial Team Ranking
-NEW_TEAM_RATING = 1500
+NEW_TEAM_RATING = 1200
 
 # create k dictionary():
 K = {}
