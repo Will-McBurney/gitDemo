@@ -3,10 +3,10 @@ from team import Team
 import math
 
 #K values
-QUALIFIER = 25
-REGIONAL = 35   #Region Season game - k = 3
-CLASH = 50      #Western/Eastern Clash = 50
-BRAWL = 60      #International Brawl = 60
+QUALIFIER = 20
+REGIONAL = 30   #Region Season game - k = 3
+CLASH = 40      #Western/Eastern Clash = 50
+BRAWL = 50      #International Brawl = 60
 
 #Initial Team Ranking
 NEW_TEAM_RATING = 1000
