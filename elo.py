@@ -3,7 +3,8 @@ from team import Team
 import math
 
 #K values
-QUALIFIER = 20
+
+QUALIFIER = 25
 REGIONAL = 30   #Region Season game - k = 3
 CLASH = 40      #Western/Eastern Clash = 50
 BRAWL = 50      #International Brawl = 60
